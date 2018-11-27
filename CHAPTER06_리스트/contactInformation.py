@@ -42,11 +42,3 @@ while menu != 9:
             friends[index] = new_name
         else:
             print("이름이 발견되지 않음")
-
-
-
-
-
-
-
-    
