@@ -15,4 +15,3 @@ if __name__=="__main__":
     list1=[7, 9, 5, 1, 8]
     selectionSort(list1)
     print(list1)
-
